@@ -2,7 +2,7 @@
  Hello, my name is Nikko Sherman Nickerson. I am member of the Hidden Genius Project and this is the project my pod has been working on for the entirety of the summer.
 
 
-![Logo](MenuForAllProjects/MeFrFr.jpg)
+![Me](https://github.com/Neekon2/FinalProjectMenu/blob/main/MeFrFr.jpg)
 
 
 ## MoreABoutThisProject
